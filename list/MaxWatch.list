@@ -1,8 +1,8 @@
-ruleset=🎬 YouTubeKids,[]DOMAIN-SUFFIX,youtubekids.com
-ruleset=🎬 YouTubeKids,[]DOMAIN-SUFFIX,youtube.com
-ruleset=🎬 YouTubeKids,[]DOMAIN-SUFFIX,youtu.be
-ruleset=🎬 YouTubeKids,[]DOMAIN-SUFFIX,youtube-nocookie.com
-ruleset=🎬 YouTubeKids,[]DOMAIN-SUFFIX,googlevideo.com
-ruleset=🎬 YouTubeKids,[]DOMAIN-SUFFIX,ytimg.com
-ruleset=🎬 YouTubeKids,[]DOMAIN-SUFFIX,ggpht.com
-ruleset=🎬 YouTubeKids,[]DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,youtubei.googleapis.com
