@@ -42,3 +42,9 @@ DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
+
+# Tailscale / 内网穿透
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,controlplane.tailscale.com
+DOMAIN-SUFFIX,login.tailscale.com
+DOMAIN-SUFFIX,ts.net
